@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Github user</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txt_followers">Followers</string>
+    <string name="txt_following">Following</string>
+    <string name="avatar_image">avatar_image</string>
+    <string name="following">Following\n24</string>
+    <string name="follower">followeradswasdwasdwasdw</string>
+    <string name="setting">Setting</string>
+    <string name="change_to_darkmode">change to darkmode</string>
+    <string name="dark_mode">Dark Mode</string>
+</resources>
